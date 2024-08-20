@@ -11,6 +11,7 @@
 ```
 - `axios` library
 - `node-cron` library
+- `discord.js` library
 
 ## Setup
 
@@ -18,7 +19,7 @@
    `git clone https://github.com/Tumult1337/RoyalHosting-DDoS-Alerts`
 3. Install the required dependencies using the following command:
 ```bash
-npm install axios node-cron
+npm install axios node-cron discord.js
 ```
 3. Edit the `index.js` file to provide the necessary information.
 
