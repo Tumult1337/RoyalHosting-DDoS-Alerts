@@ -14,8 +14,9 @@
 
 ## Setup
 
-1. Clone this repository to your local machine.
-2. Install the required dependencies using the following command:
+1. Clone this repository to your local machine
+   `git clone https://github.com/Tumult1337/RoyalHosting-DDoS-Alerts`
+3. Install the required dependencies using the following command:
 ```bash
 npm install axios node-cron
 ```
